@@ -2,7 +2,7 @@
 
 Senior Software Engineer — **React, React Native & TypeScript**. 14+ years building web apps, mobile apps, and backend systems for clients across Europe. Based in Banja Luka, Bosnia and Herzegovina, working remotely.
 
-🌐 **[milanrs.online](https://milanrs.online)** · 💼 [LinkedIn](https://www.linkedin.com/in/milansusnjar/) · ✉️ milanrs@gmail.com
+🌐 **[milanrs.dev](https://milanrs.dev)** · 💼 [LinkedIn](https://www.linkedin.com/in/milansusnjar/) · ✉️ milanrs@gmail.com
 
 ## What I'm building
 
