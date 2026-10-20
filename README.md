@@ -6,8 +6,8 @@ Senior Software Engineer — **React, React Native & TypeScript**. 14+ years bui
 
 ## What I'm building
 
-- **[Večeras](https://milanrs.online/veceras)** — entertainment guide for Banja Luka (iOS & Android). Expo/React Native app + NestJS backend with automated scrapers, TMDB enrichment, and offline-first caching. Built AI-first with agentic coding tools — full case study at the link.
-- **[SRT Editor](https://srt.milanrs.online)** — browser-based subtitle processor: 9-plugin pipeline, Cyrillization, encoding detection, per-subtitle diffs. No server, no runtime dependencies. ([source](https://github.com/milansusnjar/srt-editor))
+- **[Večeras](https://milanrs.dev/veceras)** — entertainment guide for Banja Luka (iOS & Android). Expo/React Native app + NestJS backend with automated scrapers, TMDB enrichment, and offline-first caching. Built AI-first with agentic coding tools — full case study at the link.
+- **[SRT Editor](https://srt.milanrs.dev)** — browser-based subtitle processor: 9-plugin pipeline, Cyrillization, encoding detection, per-subtitle diffs. No server, no runtime dependencies. ([source](https://github.com/milansusnjar/srt-editor))
 - **Training Builder** — full-stack platform for personal trainers: session scheduling, client progress tracking, multi-tenant deployments.
 
 ## How I work
